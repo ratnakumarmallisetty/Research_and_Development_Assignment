@@ -1,6 +1,6 @@
 # Research and Development Assignment – Curve Fitting
 
-This repository contains my solution for the Research and Development (R&D) assignment given by FLAM company.  
+This repository contains my solution for the Research and Development (R&D) assignment.  
 The goal of this task is to estimate the unknown parameters θ (theta), M, and X in a given parametric curve equation using the data points provided in `xy_data.csv`.
 
 ---
